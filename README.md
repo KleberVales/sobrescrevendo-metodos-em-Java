@@ -10,4 +10,6 @@ A sua tarefa é completar o código no editor, criando uma versão sobrescrita d
 
 ## Formato de Saída Esperado:
 Quando o código for executado, ele deve gerar a seguinte saída:
+![imagens/img.png](imagens/img.png)
+
 
